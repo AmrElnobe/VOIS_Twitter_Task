@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="214682" started-at="2021-04-03T18:51:27 EET" finished-at="2021-04-03T18:55:01 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="214682" started-at="2021-04-03T18:51:27 EET" finished-at="2021-04-03T18:55:01 EET">
+      <class name="twitterTest.Vodafone_TwitterTask">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="12437" started-at="2021-04-03T18:51:27 EET" finished-at="2021-04-03T18:51:39 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_GIF_Negative()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_GIF_Negative" duration-ms="6415" started-at="2021-04-03T18:51:39 EET" finished-at="2021-04-03T18:51:46 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_GIF_Negative -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="8823" started-at="2021-04-03T18:51:46 EET" finished-at="2021-04-03T18:51:55 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="9481" started-at="2021-04-03T18:51:55 EET" finished-at="2021-04-03T18:52:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_GIF_Positive()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_GIF_Positive" duration-ms="6725" started-at="2021-04-03T18:52:04 EET" finished-at="2021-04-03T18:52:11 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_GIF_Positive -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="10579" started-at="2021-04-03T18:52:11 EET" finished-at="2021-04-03T18:52:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="9745" started-at="2021-04-03T18:52:21 EET" finished-at="2021-04-03T18:52:31 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_Poll_Positive()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_Poll_Positive" duration-ms="3468" started-at="2021-04-03T18:52:31 EET" finished-at="2021-04-03T18:52:35 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_Poll_Positive -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="10487" started-at="2021-04-03T18:52:35 EET" finished-at="2021-04-03T18:52:45 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="10714" started-at="2021-04-03T18:52:45 EET" finished-at="2021-04-03T18:52:56 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_Text_LessThan_or_Equal_Positive()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_Text_LessThan_or_Equal_Positive" duration-ms="35367" started-at="2021-04-03T18:52:56 EET" finished-at="2021-04-03T18:53:31 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_Text_LessThan_or_Equal_Positive -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="10491" started-at="2021-04-03T18:53:31 EET" finished-at="2021-04-03T18:53:42 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="10478" started-at="2021-04-03T18:53:42 EET" finished-at="2021-04-03T18:53:52 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_Text_MoreThan_Negative()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_Text_MoreThan_Negative" duration-ms="7118" started-at="2021-04-03T18:53:52 EET" finished-at="2021-04-03T18:53:59 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_Text_MoreThan_Negative -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="9245" started-at="2021-04-03T18:53:59 EET" finished-at="2021-04-03T18:54:08 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="setUp" is-config="true" duration-ms="11238" started-at="2021-04-03T18:54:08 EET" finished-at="2021-04-03T18:54:20 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Tweet_TwoConsecutiveIdenticalTweets_Negative()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="Tweet_TwoConsecutiveIdenticalTweets_Negative" duration-ms="32978" started-at="2021-04-03T18:54:20 EET" finished-at="2021-04-03T18:54:53 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tweet_TwoConsecutiveIdenticalTweets_Negative -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:twitterTest.Vodafone_TwitterTask@64d2d351]" name="teardown" is-config="true" duration-ms="8829" started-at="2021-04-03T18:54:53 EET" finished-at="2021-04-03T18:55:01 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- twitterTest.Vodafone_TwitterTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
